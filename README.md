@@ -3,6 +3,7 @@
 
 ## サンプルアプリ概要
 
+![gif](https://github.com/BlondeNamazu/TouchInput/blob/README/sampleNamazu.gif)
 起動すると可愛い可愛いナマズ君が現れ、右下のボタンで位置を移動させることができます。
 また、左下のボタンを押すとタッチで移動できるようになります。
 再び左下のボタンを押すとボタンでの操作に戻ります。
